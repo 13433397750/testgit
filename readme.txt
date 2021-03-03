@@ -6,4 +6,8 @@ hello.js
 Hello World
 你好
 keep foolish
+<<<<<<< HEAD
 keep healthy
+=======
+keep hungry
+>>>>>>> james
