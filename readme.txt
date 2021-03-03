@@ -6,3 +6,4 @@ hello.js
 Hello World
 你好
 keep foolish
+keep healthy
