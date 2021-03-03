@@ -3,4 +3,4 @@
 前端继续学习
 hello.js
 猛兽总是独行，牛羊才成群结队。
-Hallo World
+Hello World
