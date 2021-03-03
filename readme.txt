@@ -5,3 +5,4 @@ hello.js
 猛兽总是独行，牛羊才成群结队。
 Hello World
 你好
+keep foolish
